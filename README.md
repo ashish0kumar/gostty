@@ -1,10 +1,17 @@
 <h1 align="center">gostty</h1>
 
+<div align="center">
+<p>
+<a href="https://github.com/ashish0kumar/gostty/stargazers"><img src="https://img.shields.io/github/stars/ashish0kumar/gostty?style=for-the-badge&logo=starship&color=CBA6F7&logoColor=cdd6f4&labelColor=302D41" alt="stars"><a>&nbsp;&nbsp;
+<a href="https://github.com/ashish0kumar/gostty/releases"><img src="https://img.shields.io/github/v/release/ashish0kumar/gostty?style=for-the-badge&logo=github&color=CBA6F7&logoColor=cdd6f4&labelColor=302D41" alt="Releases"></a>&nbsp;&nbsp;
+<a href="https://github.com/ashish0kumar/gostty/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ashish0kumar/gostty?style=for-the-badge&logo=googledocs&color=CBA6F7&logoColor=cdd6f4&labelColor=302D41" alt="LICENSE"></a>&nbsp;&nbsp;
+</p>
+</div>
+
 <p align="center">
-Go implementation of the iconic <a href="https://ghostty.org">ghostty.org</a> animation, in your terminal.
+The iconic <a href="https://ghostty.org">ghostty.org</a> animation in your terminal
 </p>
 
-<br>
 
 <div align="center">
 <img src="assets/animation.gif" width="50%">
